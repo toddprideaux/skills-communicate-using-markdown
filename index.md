@@ -5,3 +5,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Complete GitHub courses
+- [ ] Shut down laptop
+- [ ] Pack up stuff
+- [ ] Go home
